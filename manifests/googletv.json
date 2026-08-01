@@ -1,0 +1,12 @@
+{
+  "platform": "googletv",
+  "package": "com.dektv.googletv",
+  "version_name": "1.0.8",
+  "version_code": 9,
+  "download_url": "",
+  "file_name": "dektv-player-googletv.apk",
+  "changelog": "Canal Google TV — publique um Release e preencha download_url.",
+  "mandatory": false,
+  "requires_user_confirm_install": true,
+  "install_hint": "No Google TV confirme Instalar na tela do sistema."
+}
