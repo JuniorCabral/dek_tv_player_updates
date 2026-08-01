@@ -1,23 +1,22 @@
-﻿# Dek TV — atualizações do app player
+﻿# Dek TV Player — canal publico de updates
 
-Repositório de **manifests** e releases de APK do Dek TV Player (Fire TV / Android).
+O app consulta este repositorio **direto no GitHub** (sem precisar da API), via:
 
-## Como publicar uma versão
+`https://raw.githubusercontent.com/JuniorCabral/dek_tv_player_updates/master/manifests/<plataforma>.json`
 
-1. Gere o APK release no monorepo:
-   `flutter build apk --release` em `app_player/`.
-2. Crie um GitHub Release neste repositório (tag `vX.Y.Z`) e anexe o APK
-   (ex.: `dektv-player-X.Y.Z.apk`).
-3. Atualize `manifests/android-firetv.json` com `version_name`, `version_code`,
-   `apk_url` (URL do asset do Release) e `changelog`.
-4. Commit + push do manifest.
+## Plataformas
 
-O app consulta o manifest (via API Dek TV ou URL direta) e baixa o APK.
+| Arquivo | Plataforma |
+|---------|------------|
+| `manifests/android-firetv.json` | Fire TV / Android |
+| `manifests/windows.json` | Windows desktop |
+| `manifests/macos.json` | macOS (reservado) |
 
-## Importante — instalação no Fire TV
+## Publicar versao
 
-Apps sideload **não** instalam silenciosamente. Após o download o sistema pede
-que o usuário confirme **Instalar**. O app avisa isso com antecedência (~10s).
+1. Build release (APK / zip Windows).
+2. Crie um **GitHub Release** (tag `vX.Y.Z`) e anexe os arquivos.
+3. Atualize o JSON da plataforma com `version_name`, `version_code` e `download_url` (URL do asset).
+4. Commit + push.
 
-Silent install só existe com privilegios de sistema / Device Owner — fora do
-escopo do app de consumidor.
+`version_code` deve ser inteiro crescente (bate com `+N` do `pubspec.yaml`).

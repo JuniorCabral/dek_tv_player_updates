@@ -1,0 +1,12 @@
+﻿{
+  "platform": "macos",
+  "package": "com.dektv.app_player",
+  "version_name": "1.0.8",
+  "version_code": 9,
+  "download_url": "",
+  "file_name": "dektv-player-macos.zip",
+  "changelog": "Canal reservado para builds macOS.",
+  "mandatory": false,
+  "requires_user_confirm_install": true,
+  "install_hint": "Abra o arquivo baixado e substitua o app."
+}

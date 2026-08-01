@@ -1,0 +1,8 @@
+﻿{
+  "base_url": "https://raw.githubusercontent.com/JuniorCabral/dek_tv_player_updates/master/",
+  "channels": {
+    "android": "manifests/android-firetv.json",
+    "windows": "manifests/windows.json",
+    "macos": "manifests/macos.json"
+  }
+}

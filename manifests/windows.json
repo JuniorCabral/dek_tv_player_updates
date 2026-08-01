@@ -1,0 +1,12 @@
+﻿{
+  "platform": "windows",
+  "package": "com.dektv.app_player",
+  "version_name": "1.0.8",
+  "version_code": 9,
+  "download_url": "",
+  "file_name": "dektv-player-windows.zip",
+  "changelog": "Publique um GitHub Release e preencha download_url com o ZIP/EXE do Windows.",
+  "mandatory": false,
+  "requires_user_confirm_install": true,
+  "install_hint": "Abra o arquivo baixado e substitua/execute a nova versao do Dek TV."
+}
