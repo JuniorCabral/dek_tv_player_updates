@@ -5,7 +5,7 @@
   "version_code": 9,
   "download_url": "",
   "file_name": "dektv-player-macos.zip",
-  "changelog": "Canal reservado para builds macOS.",
+  "changelog": "Canal reservado — build macOS ainda não publicada nesta release.",
   "mandatory": false,
   "requires_user_confirm_install": true,
   "install_hint": "Abra o arquivo baixado e substitua o app."
