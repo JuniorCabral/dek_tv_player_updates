@@ -1,4 +1,6 @@
 ﻿dist/
+tools/
 *.apk
 *.zip
+*.exe
 .DS_Store
