@@ -1,12 +1,12 @@
-﻿{
-  "platform": "windows",
-  "package": "com.dektv.app_player",
-  "version_name": "1.0.12",
-  "version_code": 13,
-  "download_url": "https://github.com/JuniorCabral/dek_tv_player_updates/releases/download/v1.0.12/dektv-player-windows.exe",
-  "file_name": "dektv-player-windows.exe",
-  "changelog": "1.0.12 — Verifica atualização no login e na escolha de perfil; botão Sobre/atualizações; Sair da conta navegável no teclado.",
-  "mandatory": true,
-  "requires_user_confirm_install": true,
-  "install_hint": "Execute o .exe: atualiza a pasta DekTV\\Player, recria atalhos e abre o app."
-}
+﻿{
+  "platform": "windows",
+  "package": "com.dektv.app_player",
+  "version_name": "1.0.13",
+  "version_code": 14,
+  "download_url": "https://github.com/JuniorCabral/dek_tv_player_updates/releases/download/v1.0.13/dektv-player-windows.exe",
+  "file_name": "dektv-player-windows.exe",
+  "changelog": "1.0.13 — Release de teste da autoatualização (build 14).",
+  "mandatory": true,
+  "requires_user_confirm_install": true,
+  "install_hint": "Execute o .exe: atualiza a pasta DekTV\\Player, recria atalhos e abre o app."
+}
