@@ -1,12 +1,12 @@
 ﻿{
   "platform": "windows",
   "package": "com.dektv.app_player",
-  "version_name": "1.0.10",
-  "version_code": 11,
-  "download_url": "https://github.com/JuniorCabral/dek_tv_player_updates/releases/download/v1.0.10/dektv-player-windows.exe",
+  "version_name": "1.0.11",
+  "version_code": 12,
+  "download_url": "https://github.com/JuniorCabral/dek_tv_player_updates/releases/download/v1.0.11/dektv-player-windows.exe",
   "file_name": "dektv-player-windows.exe",
-  "changelog": "1.0.10 — atualização obrigatória; instalador cria atalhos na Área de Trabalho e Menu Iniciar.",
+  "changelog": "1.0.11 — Nome Dek TV (DekTV.exe). Instala sempre em %LOCALAPPDATA%\\DekTV\\Player e atualiza in-place com atalhos únicos.",
   "mandatory": true,
   "requires_user_confirm_install": true,
-  "install_hint": "Execute o .exe: instala em AppData, cria atalhos e abre o Dek TV."
+  "install_hint": "Execute o .exe: atualiza a pasta DekTV\\Player, recria atalhos e abre o app."
 }
