@@ -1,11 +1,11 @@
 ﻿{
   "platform": "windows",
   "package": "com.dektv.app_player",
-  "version_name": "1.0.8",
-  "version_code": 9,
-  "download_url": "https://github.com/JuniorCabral/dek_tv_player_updates/releases/download/v1.0.8/dektv-player-windows.exe",
+  "version_name": "1.0.9",
+  "version_code": 10,
+  "download_url": "https://github.com/JuniorCabral/dek_tv_player_updates/releases/download/v1.0.9/dektv-player-windows.exe",
   "file_name": "dektv-player-windows.exe",
-  "changelog": "Build 1.0.8 — instalador Windows em .exe (autoextrator).",
+  "changelog": "1.0.9 — balanceamento de pool (canais+VOD) e retry se servidor cheio.",
   "mandatory": false,
   "requires_user_confirm_install": true,
   "install_hint": "Execute o .exe baixado e confirme a instalação."
