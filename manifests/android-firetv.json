@@ -1,12 +1,12 @@
-﻿{
-  "platform": "firetv",
-  "package": "com.dektv.firetv5",
-  "version_name": "1.0.11",
-  "version_code": 12,
-  "download_url": "https://github.com/JuniorCabral/dek_tv_player_updates/releases/download/v1.0.11/dektv-player-firetv.apk",
-  "file_name": "dektv-player-firetv.apk",
-  "changelog": "1.0.11 — Windows DekTV.exe + pasta fixa de instalação; atualização obrigatória.",
-  "mandatory": true,
-  "requires_user_confirm_install": true,
-  "install_hint": "No Fire TV confirme Instalar na tela do sistema."
-}
+﻿{
+  "platform": "firetv",
+  "package": "com.dektv.firetv5",
+  "version_name": "1.0.12",
+  "version_code": 13,
+  "download_url": "https://github.com/JuniorCabral/dek_tv_player_updates/releases/download/v1.0.12/dektv-player-firetv.apk",
+  "file_name": "dektv-player-firetv.apk",
+  "changelog": "1.0.12 — Verifica atualização no login e na escolha de perfil; botão Sobre/atualizações; Sair da conta navegável no controle.",
+  "mandatory": true,
+  "requires_user_confirm_install": true,
+  "install_hint": "No Fire TV confirme Instalar na tela do sistema."
+}
