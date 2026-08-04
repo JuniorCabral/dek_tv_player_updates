@@ -1,11 +1,11 @@
 ﻿{
   "platform": "mobile",
   "package": "com.dektv.mobile",
-  "version_name": "1.0.13",
-  "version_code": 14,
-  "download_url": "https://github.com/JuniorCabral/dek_tv_player_updates/releases/download/v1.0.13/dektv-player-mobile.apk",
+  "version_name": "1.0.14",
+  "version_code": 15,
+  "download_url": "https://github.com/JuniorCabral/dek_tv_player_updates/releases/download/v1.0.14/dektv-player-mobile.apk",
   "file_name": "dektv-player-mobile.apk",
-  "changelog": "1.0.13 — Release de teste da autoatualização (build 14).",
+  "changelog": "1.0.14 — Cadastro com WhatsApp. Indicação e área de revenda no site (atualize o player; gerencie indicações em Minha conta).",
   "mandatory": true,
   "requires_user_confirm_install": true,
   "install_hint": "Abra o APK baixado e confirme a instalação."
