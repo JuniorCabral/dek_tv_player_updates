@@ -1,11 +1,11 @@
 ﻿{
   "platform": "firetv",
   "package": "com.dektv.firetv5",
-  "version_name": "1.0.14",
-  "version_code": 15,
-  "download_url": "https://github.com/JuniorCabral/dek_tv_player_updates/releases/download/v1.0.14/dektv-player-firetv.apk",
+  "version_name": "1.0.16",
+  "version_code": 17,
+  "download_url": "https://github.com/JuniorCabral/dek_tv_player_updates/releases/download/v1.0.16/dektv-player-firetv.apk",
   "file_name": "dektv-player-firetv.apk",
-  "changelog": "1.0.14 — Cadastro com WhatsApp. Indicação e área de revenda no site (atualize o player; gerencie indicações em Minha conta).",
+  "changelog": "1.0.16 — Meu Plano nas configurações; QR direto do site na TV/PC; aviso e bloqueio por fatura vencida; melhorias de pagamento no site.",
   "mandatory": true,
   "requires_user_confirm_install": true,
   "install_hint": "No Fire TV confirme Instalar na tela do sistema."
