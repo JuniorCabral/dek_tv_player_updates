@@ -1,12 +1,12 @@
-﻿{
-  "platform": "firetv",
-  "package": "com.dektv.firetv5",
-  "version_name": "1.0.16",
-  "version_code": 17,
-  "download_url": "https://github.com/JuniorCabral/dek_tv_player_updates/releases/download/v1.0.16/dektv-player-firetv.apk",
-  "file_name": "dektv-player-firetv.apk",
-  "changelog": "1.0.16 — Meu Plano nas configurações; QR direto do site na TV/PC; aviso e bloqueio por fatura vencida; melhorias de pagamento no site.",
-  "mandatory": true,
-  "requires_user_confirm_install": true,
-  "install_hint": "No Fire TV confirme Instalar na tela do sistema."
+{
+    "mandatory":  true,
+    "platform":  "firetv",
+    "package":  "com.dektv.firetv5",
+    "download_url":  "https://github.com/JuniorCabral/dek_tv_player_updates/releases/download/v1.0.17/dektv-player-firetv.apk",
+    "requires_user_confirm_install":  true,
+    "file_name":  "dektv-player-firetv.apk",
+    "install_hint":  "No Fire TV confirme Instalar na tela do sistema.",
+    "version_name":  "1.0.17",
+    "version_code":  18,
+    "changelog":  "1.0.17 - Login/cadastro na TV via QR (celular libera a TV sozinha); re-cadastro reenvia SMS; recuperacao se numero ja verificado; cadastro/verificacao no site; SMS Twilio Verify."
 }

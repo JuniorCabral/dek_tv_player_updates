@@ -1,12 +1,12 @@
-﻿{
-  "platform": "windows",
-  "package": "com.dektv.app_player",
-  "version_name": "1.0.16",
-  "version_code": 17,
-  "download_url": "https://github.com/JuniorCabral/dek_tv_player_updates/releases/download/v1.0.16/dektv-player-windows.exe",
-  "file_name": "dektv-player-windows.exe",
-  "changelog": "1.0.16 — Meu Plano nas configurações; QR direto do site na TV/PC; aviso e bloqueio por fatura vencida; melhorias de pagamento no site.",
-  "mandatory": true,
-  "requires_user_confirm_install": true,
-  "install_hint": "Execute o .exe: atualiza a pasta DekTV\\Player, recria atalhos e abre o app."
+{
+    "mandatory":  true,
+    "platform":  "windows",
+    "package":  "com.dektv.app_player",
+    "download_url":  "https://github.com/JuniorCabral/dek_tv_player_updates/releases/download/v1.0.17/dektv-player-windows.exe",
+    "requires_user_confirm_install":  true,
+    "file_name":  "dektv-player-windows.exe",
+    "install_hint":  "Execute o .exe: atualiza a pasta DekTV\\Player, recria atalhos e abre o app.",
+    "version_name":  "1.0.17",
+    "version_code":  18,
+    "changelog":  "1.0.17 - Login/cadastro na TV via QR (celular libera a TV sozinha); re-cadastro reenvia SMS; recuperacao se numero ja verificado; cadastro/verificacao no site; SMS Twilio Verify."
 }
