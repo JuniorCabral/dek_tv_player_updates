@@ -2,11 +2,11 @@
   "mandatory": true,
   "platform": "firetv",
   "package": "com.dektv.firetv5",
-  "download_url": "https://github.com/JuniorCabral/dek_tv_player_updates/releases/download/v1.0.27/dektv-player-firetv.apk",
+  "download_url": "https://github.com/JuniorCabral/dek_tv_player_updates/releases/download/v1.0.28/dektv-player-firetv.apk",
   "requires_user_confirm_install": true,
   "file_name": "dektv-player-firetv.apk",
   "install_hint": "No Fire TV confirme Instalar na tela do sistema.",
-  "version_name": "1.0.27",
-  "version_code": 28,
-  "changelog": "1.0.27 - Bandeira slim de download a esquerda. Fix OK do controle no modal Instalar (Fire TV). Checagem de update a cada 45 min e ao retomar o app."
+  "version_name": "1.0.28",
+  "version_code": 29,
+  "changelog": "1.0.28 - Menu Windows de volta no topo. Reportar erro no player (canal/filme/serie) com diagnostico e envio ao painel. Teste de conexao com perda de pacotes."
 }
