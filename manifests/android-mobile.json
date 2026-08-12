@@ -1,12 +1,1 @@
-{
-  "mandatory": true,
-  "platform": "mobile",
-  "package": "com.dektv.mobile",
-  "download_url": "https://github.com/JuniorCabral/dek_tv_player_updates/releases/download/v1.0.28/dektv-player-mobile.apk",
-  "requires_user_confirm_install": true,
-  "file_name": "dektv-player-mobile.apk",
-  "install_hint": "Instale o APK e abra o Dek TV.",
-  "version_name": "1.0.28",
-  "version_code": 29,
-  "changelog": "1.0.28 - Menu Windows de volta no topo. Reportar erro no player (canal/filme/serie) com diagnostico e envio ao painel. Teste de conexao com perda de pacotes."
-}
+﻿{"mandatory":true,"platform":"mobile","package":"com.dektv.mobile","download_url":"https://github.com/JuniorCabral/dek_tv_player_updates/releases/download/v1.0.29/dektv-player-mobile.apk","requires_user_confirm_install":true,"file_name":"dektv-player-mobile.apk","install_hint":"Instale o APK e abra o Dek TV.","version_name":"1.0.29","version_code":30,"changelog":"1.0.29 - Fix reportar erro travando em Testando conexao do conteudo (timeout em streams IPTV)."}
