@@ -1,1 +1,13 @@
-{"mandatory":true,"platform":"firetv","package":"com.dektv.firetv5","download_url":"https://github.com/JuniorCabral/dek_tv_player_updates/releases/download/v1.0.31/dektv-player-firetv.apk","requires_user_confirm_install":true,"file_name":"dektv-player-firetv.apk","install_hint":"No Fire TV confirme Instalar na tela do sistema.","version_name":"1.0.31","version_code":32,"changelog":"1.0.31 - Pix QR na TV, confianca 48h, aviso de vencimento, textos de update sem GitHub."}
+﻿{
+  "mandatory": true,
+  "platform": "firetv",
+  "package": "com.dektv.firetv5",
+  "download_url": "https://github.com/JuniorCabral/dek_tv_player_updates/releases/download/v1.0.32/dektv-player-firetv.apk",
+  "requires_user_confirm_install": true,
+  "file_name": "dektv-player-firetv.apk",
+  "install_hint": "No Fire TV confirme Instalar na tela do sistema.",
+  "version_name": "1.0.32",
+  "version_code": 33,
+  "min_supported_version_code": 33,
+  "changelog": "1.0.32 - Aparelhos conectados/deslogar, protecao da API (cliente assinado + so ultima/penultima versao). Atualizacao obrigatoria."
+}
