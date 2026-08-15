@@ -2,12 +2,12 @@
   "mandatory": true,
   "platform": "mobile",
   "package": "com.dektv.mobile",
-  "download_url": "https://github.com/JuniorCabral/dek_tv_player_updates/releases/download/v1.0.33/dektv-player-mobile.apk",
+  "download_url": "https://github.com/JuniorCabral/dek_tv_player_updates/releases/download/v1.0.34/dektv-player-mobile.apk",
   "requires_user_confirm_install": true,
   "file_name": "dektv-player-mobile.apk",
   "install_hint": "Instale o APK e abra o Dek TV.",
-  "version_name": "1.0.33",
-  "version_code": 34,
-  "min_supported_version_code": 34,
-  "changelog": "1.0.33 - Meu plano: vencimento e pagamento mais claros. Mais telas cobram os dias restantes com 25% de desconto. Boleto e cartao no celular; na TV o Pix fica no app e os outros meios no site."
+  "version_name": "1.0.34",
+  "version_code": 35,
+  "min_supported_version_code": 35,
+  "changelog": "1.0.34 - Meu plano igual ao site (vencimento, Pagar, historico). Escolha de plano em lista. Cartao/boleto pelo site."
 }
