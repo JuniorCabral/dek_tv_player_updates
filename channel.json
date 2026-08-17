@@ -1,4 +1,4 @@
-﻿{
+{
   "base_url": "https://raw.githubusercontent.com/JuniorCabral/dek_tv_player_updates/master/",
   "channels": {
     "firetv": "manifests/android-firetv.json",

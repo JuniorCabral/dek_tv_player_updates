@@ -1,4 +1,4 @@
-﻿# Dek TV Player — canal publico de updates
+# Dek TV Player — canal publico de updates
 
 O app consulta este repositorio **direto no GitHub** (sem auth), via:
 
