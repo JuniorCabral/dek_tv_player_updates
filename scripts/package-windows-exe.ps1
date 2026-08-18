@@ -29,7 +29,7 @@ New-Item -ItemType Directory -Force -Path $stage | Out-Null
 # Copia Release + scripts de instalacao/atalhos
 Copy-Item -Path (Join-Path $ReleaseDir "*") -Destination $stage -Recurse -Force
 $installScripts = Join-Path $PSScriptRoot "windows-install"
-Copy-Item (Join-Path $installScripts "install.cmd") $stage -Force
+Copy-Item (Join-Path $installScripts "install.ps1") $stage -Force
 Copy-Item (Join-Path $installScripts "create_shortcuts.ps1") $stage -Force
 
 if (-not $OutExe) { $OutExe = Join-Path $dist "dektv-player-windows.exe" }
@@ -38,10 +38,9 @@ $configPath = Join-Path $work "config.txt"
 @(
   ';!@Install@!UTF-8!',
   'Title="Dek TV Player"',
-  "BeginPrompt=`"Instalar / atualizar Dek TV Player $Version?`"",
-  'ExtractTitle="Extraindo Dek TV Player"',
-  'ExtractDialogText="Aguarde enquanto os arquivos sao preparados."',
-  'RunProgram="install.cmd"',
+  'GUIMode="2"',
+  'OverwriteMode="1"',
+  'RunProgram="powershell.exe -NoProfile -WindowStyle Hidden -ExecutionPolicy Bypass -File install.ps1"',
   ';!@InstallEnd@!'
 ) | Set-Content -Path $configPath -Encoding Ascii
 
