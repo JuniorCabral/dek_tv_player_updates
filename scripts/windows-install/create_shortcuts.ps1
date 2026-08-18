@@ -35,4 +35,3 @@ New-Shortcut -Path (Join-Path $startMenu "Dek TV.lnk") -Target $exe -WorkDir $In
   if (Test-Path $_) { Remove-Item $_ -Force -ErrorAction SilentlyContinue }
 }
 
-Write-Host "Atalhos Dek TV atualizados (Area de Trabalho + Menu Iniciar)."

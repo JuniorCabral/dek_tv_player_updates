@@ -23,5 +23,6 @@ if (Test-Path $shortcutScript) {
   & $shortcutScript -InstallDir $installDir
 }
 
-Start-Process -FilePath $exe -WorkingDirectory $installDir
+# Processo novo, sem herdar o console do instalador.
+Start-Process -FilePath $exe -WorkingDirectory $installDir -WindowStyle Normal
 exit 0
