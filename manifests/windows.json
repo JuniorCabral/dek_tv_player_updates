@@ -2,12 +2,12 @@
   "mandatory": true,
   "platform": "windows",
   "package": "com.dektv.app_player",
-  "download_url": "https://github.com/JuniorCabral/dek_tv_player_updates/releases/download/v1.0.71/dektv-player-windows.exe",
+  "download_url": "https://github.com/JuniorCabral/dek_tv_player_updates/releases/download/v1.0.75/dektv-player-windows.exe",
   "requires_user_confirm_install": true,
   "file_name": "dektv-player-windows.exe",
   "install_hint": "Execute o .exe: atualiza a pasta DekTV\\Player, recria atalhos e abre o app.",
-  "version_name": "1.0.71",
-  "version_code": 72,
+  "version_name": "1.0.75",
+  "version_code": 76,
   "min_supported_version_code": 35,
-  "changelog": "1.0.71 — Preferência forte por HD+; SD só em lentidão óbvia; evita 4K/H265 em soft decode; presença rica no painel."
+  "changelog": "1.0.75 — Decode estável na TCL; failover sem imagem; busca sem acento; teste HLS; API LAN ou dektv.de."
 }
