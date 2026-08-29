@@ -2,12 +2,12 @@
   "mandatory": true,
   "platform": "firetv",
   "package": "com.dektv.firetv5",
-  "download_url": "https://github.com/JuniorCabral/dek_tv_player_updates/releases/download/v1.0.84/dektv-player-firetv.apk",
+  "download_url": "https://github.com/JuniorCabral/dek_tv_player_updates/releases/download/v1.0.85/dektv-player-firetv.apk",
   "requires_user_confirm_install": true,
   "file_name": "dektv-player-firetv.apk",
   "install_hint": "No Fire TV confirme Instalar na tela do sistema.",
-  "version_name": "1.0.84",
-  "version_code": 85,
+  "version_name": "1.0.85",
+  "version_code": 86,
   "min_supported_version_code": 35,
-  "changelog": "1.0.84 — Corrige mini player preto após fullscreen, refresh de vídeo no recovery de canais, telemetria automática e perfil Fire TV auto-copy."
+  "changelog": "1.0.85 — Canais ao vivo: sem pausa acidental, botão Voltar focável no D-pad, live HD em TCL/Aiwa e recovery mais rápido."
 }
