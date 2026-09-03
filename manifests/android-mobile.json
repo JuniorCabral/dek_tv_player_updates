@@ -2,7 +2,7 @@
     "mandatory":  true,
     "platform":  "mobile",
     "package":  "com.dektv.mobile",
-    "download_url":  "https://github.com/JuniorCabral/dek_tv_server/releases/download/player-v1.0.101/dektv-player-mobile.apk",
+    "download_url":  "https://github.com/JuniorCabral/dek_tv_player_updates/releases/download/v1.0.101/dektv-player-mobile.apk",
     "requires_user_confirm_install":  true,
     "file_name":  "dektv-player-mobile.apk",
     "install_hint":  "Confirme Instalar na tela do sistema.",

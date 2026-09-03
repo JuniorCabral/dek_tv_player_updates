@@ -2,7 +2,7 @@
     "mandatory":  true,
     "platform":  "googletv",
     "package":  "com.dektv.googletv",
-    "download_url":  "https://github.com/JuniorCabral/dek_tv_server/releases/download/player-v1.0.101/dektv-player-googletv.apk",
+    "download_url":  "https://github.com/JuniorCabral/dek_tv_player_updates/releases/download/v1.0.101/dektv-player-googletv.apk",
     "requires_user_confirm_install":  true,
     "file_name":  "dektv-player-googletv.apk",
     "install_hint":  "No Google TV confirme Instalar na tela do sistema.",
