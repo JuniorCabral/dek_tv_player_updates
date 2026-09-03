@@ -2,12 +2,12 @@
     "mandatory":  true,
     "platform":  "mobile",
     "package":  "com.dektv.mobile",
-    "download_url":  "https://github.com/JuniorCabral/dek_tv_player_updates/releases/download/v1.0.100/dektv-player-mobile.apk",
+    "download_url":  "https://github.com/JuniorCabral/dek_tv_server/releases/download/player-v1.0.101/dektv-player-mobile.apk",
     "requires_user_confirm_install":  true,
     "file_name":  "dektv-player-mobile.apk",
     "install_hint":  "Confirme Instalar na tela do sistema.",
-    "version_name":  "1.0.100",
-    "version_code":  101,
+    "version_name":  "1.0.101",
+    "version_code":  102,
     "min_supported_version_code":  35,
-    "changelog":  "1.0.100 — Play sem probe no 1o clique (escolhe servidor com mais vagas); failover no travamento; dedup de auto-reports; report manual mais leve; posters em TV 1GB com menos GETs paralelos."
+    "changelog":  "1.0.101 — Corrige foco do teclado ao criar perfil na TV (D-pad)."
 }
