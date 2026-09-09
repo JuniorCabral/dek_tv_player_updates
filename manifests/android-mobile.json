@@ -2,12 +2,12 @@
     "mandatory":  true,
     "platform":  "mobile",
     "package":  "com.dektv.mobile",
-    "download_url":  "https://github.com/JuniorCabral/dek_tv_player_updates/releases/download/v1.0.126/dektv-player-mobile.apk",
+    "download_url":  "https://github.com/JuniorCabral/dek_tv_player_updates/releases/download/v1.0.127/dektv-player-mobile.apk",
     "requires_user_confirm_install":  true,
     "file_name":  "dektv-player-mobile.apk",
     "install_hint":  "No celular confirme Instalar.",
-    "version_name":  "1.0.126",
-    "version_code":  127,
+    "version_name":  "1.0.127",
+    "version_code":  128,
     "min_supported_version_code":  35,
-    "changelog":  "1.0.126 — Live HD-first; mini→fullscreen sem rebuffer/dual audio; logout/foco vencimento; Pix KYC; jogos do dia sem apagar cache no rate-limit."
+    "changelog":  "1.0.127 — Hotfix: sonda da API so aceita /health 2xx (evita 404 de login/QR quando outro aparelho responde em 192.168.x.106)."
 }
