@@ -1,13 +1,13 @@
 {
-    "mandatory": true,
-    "platform": "windows",
-    "package": "com.dektv.app_player",
-    "download_url": "https://github.com/JuniorCabral/dek_tv_player_updates/releases/download/v1.0.128/dektv-player-windows.exe",
-    "requires_user_confirm_install": true,
-    "file_name": "dektv-player-windows.exe",
-    "install_hint": "Execute o instalador.",
-    "version_name": "1.0.128",
-    "version_code": 129,
-    "min_supported_version_code": 35,
-    "changelog": "1.0.128 — Continuar assistindo: ao terminar episódio grava o próximo; detalhes TV/Windows com novo layout (poster, grid SxxEyyy)."
+    "mandatory":  true,
+    "platform":  "windows",
+    "package":  "com.dektv.app_player",
+    "download_url":  "https://github.com/JuniorCabral/dek_tv_player_updates/releases/download/v1.0.129/dektv-player-windows.exe",
+    "requires_user_confirm_install":  true,
+    "file_name":  "dektv-player-windows.exe",
+    "install_hint":  "Execute o instalador.",
+    "version_name":  "1.0.129",
+    "version_code":  130,
+    "min_supported_version_code":  35,
+    "changelog":  "1.0.129 — Mini player ao vivo: corrige vídeo no canto com borda verde (TextureView/FittedBox)."
 }
