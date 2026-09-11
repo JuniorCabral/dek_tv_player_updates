@@ -1,13 +1,13 @@
 {
-    "mandatory":  true,
-    "platform":  "windows",
-    "package":  "com.dektv.app_player",
-    "download_url":  "https://github.com/JuniorCabral/dek_tv_player_updates/releases/download/v1.0.133/dektv-player-windows.exe",
-    "requires_user_confirm_install":  true,
     "file_name":  "dektv-player-windows.exe",
-    "install_hint":  "Execute o instalador.",
-    "version_name":  "1.0.133",
-    "version_code":  134,
+    "mandatory":  true,
     "min_supported_version_code":  35,
-    "changelog":  "1.0.133 — VOD: botões de erro navegáveis no D-pad; failover tenta outras fontes do mesmo provedor (ex.: Server 1 após falha do Server 2); botão Outra fonte no overlay."
+    "download_url":  "https://github.com/JuniorCabral/dek_tv_player_updates/releases/download/v1.0.137/dektv-player-windows.exe",
+    "package":  "com.dektv.app_player",
+    "version_name":  "1.0.137",
+    "platform":  "windows",
+    "version_code":  138,
+    "requires_user_confirm_install":  true,
+    "install_hint":  "Execute o instalador.",
+    "changelog":  "1.0.137 — Meu plano: botão Pagar em primeiro lugar (habilitado só com fatura). Inclui correções recentes de playback (Fire TV SurfaceView ao vivo, corrida de áudio ao trocar canal, VOD TextureView)."
 }

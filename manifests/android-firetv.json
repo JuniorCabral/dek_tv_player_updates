@@ -1,13 +1,13 @@
 {
-    "mandatory":  true,
-    "platform":  "firetv",
-    "package":  "com.dektv.firetv5",
-    "download_url":  "https://github.com/JuniorCabral/dek_tv_player_updates/releases/download/v1.0.133/dektv-player-firetv.apk",
-    "requires_user_confirm_install":  true,
     "file_name":  "dektv-player-firetv.apk",
-    "install_hint":  "No Fire TV confirme Instalar. (1.0.133)",
-    "version_name":  "1.0.133",
-    "version_code":  134,
+    "mandatory":  true,
     "min_supported_version_code":  35,
-    "changelog":  "1.0.133 â€” VOD: botÃµes de erro navegÃ¡veis no D-pad; failover tenta outras fontes do mesmo provedor (ex.: Server 1 apÃ³s falha do Server 2); botÃ£o Outra fonte no overlay."
+    "download_url":  "https://github.com/JuniorCabral/dek_tv_player_updates/releases/download/v1.0.137/dektv-player-firetv.apk",
+    "package":  "com.dektv.firetv5",
+    "version_name":  "1.0.137",
+    "platform":  "firetv",
+    "version_code":  138,
+    "requires_user_confirm_install":  true,
+    "install_hint":  "No Fire TV confirme Instalar.",
+    "changelog":  "1.0.137 — Meu plano: botão Pagar em primeiro lugar (habilitado só com fatura). Inclui correções recentes de playback (Fire TV SurfaceView ao vivo, corrida de áudio ao trocar canal, VOD TextureView)."
 }
