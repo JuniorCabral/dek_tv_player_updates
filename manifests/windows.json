@@ -2,12 +2,12 @@
     "file_name":  "dektv-player-windows.exe",
     "mandatory":  true,
     "min_supported_version_code":  35,
-    "download_url":  "https://github.com/JuniorCabral/dek_tv_player_updates/releases/download/v1.0.137/dektv-player-windows.exe",
+    "download_url":  "https://github.com/JuniorCabral/dek_tv_player_updates/releases/download/v1.0.138/dektv-player-windows.exe",
     "package":  "com.dektv.app_player",
-    "version_name":  "1.0.137",
+    "version_name":  "1.0.138",
     "platform":  "windows",
-    "version_code":  138,
+    "version_code":  139,
     "requires_user_confirm_install":  true,
     "install_hint":  "Execute o instalador.",
-    "changelog":  "1.0.137 — Meu plano: botão Pagar em primeiro lugar (habilitado só com fatura). Inclui correções recentes de playback (Fire TV SurfaceView ao vivo, corrida de áudio ao trocar canal, VOD TextureView)."
+    "changelog":  "1.0.138 — Datas em fuso Sao Paulo (vencimento correto). Meu plano: botao Pagar primario. Painel: copiar link de pagamento. Job de renovacao com catch-up no boot."
 }
