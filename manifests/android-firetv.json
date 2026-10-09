@@ -1,13 +1,13 @@
 {
-    "mandatory":  true,
+    "mandatory":  false,
     "platform":  "firetv",
     "package":  "com.dektv.firetv5",
-    "download_url":  "https://github.com/JuniorCabral/dek_tv_player_updates/releases/download/v1.0.143/dektv-player-firetv.apk",
+    "download_url":  "https://github.com/JuniorCabral/dek_tv_player_updates/releases/download/v1.0.152/dektv-player-firetv.apk",
     "requires_user_confirm_install":  true,
     "file_name":  "dektv-player-firetv.apk",
     "install_hint":  "No Fire TV confirme Instalar.",
-    "version_name":  "1.0.143",
-    "version_code":  144,
+    "version_name":  "1.0.152",
+    "version_code":  153,
     "min_supported_version_code":  35,
-    "changelog":  "1.0.143 — VOD MediaCodec TCL/Amlogic: SurfaceView Google TV; retry surface + failover; reports codec/surface; painel TV fragil."
+    "changelog":  "1.0.152 — Fire TV: o video nao troca de superficie no meio do filme. Evita Ajustando video e a imagem no canto com tela verde."
 }
