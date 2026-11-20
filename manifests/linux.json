@@ -2,12 +2,12 @@
   "mandatory": false,
   "platform": "linux",
   "package": "com.dektv.app_player",
-  "download_url": "https://github.com/JuniorCabral/dek_tv_player_updates/releases/download/v1.0.163/dektv-player-linux-x64.tar.gz",
+  "download_url": "https://github.com/JuniorCabral/dek_tv_player_updates/releases/download/v1.0.163/dektv-player-linux-amd64.deb",
   "requires_user_confirm_install": true,
-  "file_name": "dektv-player-linux-x64.tar.gz",
-  "install_hint": "Extraia o .tar.gz e rode ./install.sh",
+  "file_name": "dektv-player-linux-amd64.deb",
+  "install_hint": "Abra o arquivo .deb e clique em Instalar (Ubuntu/Debian).",
   "version_name": "1.0.170",
   "version_code": 171,
   "min_supported_version_code": 35,
-  "changelog": "1.0.170 — Preview Linux x86_64 (teste). Extraia e use ./install.sh."
+  "changelog": "1.0.170 — Linux Ubuntu/Debian (.deb, instalação por clique)."
 }
