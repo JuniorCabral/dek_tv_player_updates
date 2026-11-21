@@ -1,4 +1,4 @@
-{
+﻿{
   "mandatory": false,
   "platform": "linux",
   "package": "com.dektv.app_player",
@@ -6,8 +6,8 @@
   "requires_user_confirm_install": true,
   "file_name": "dektv-player-linux-amd64.deb",
   "install_hint": "Abra o arquivo .deb e clique em Instalar (Ubuntu/Debian).",
-  "version_name": "1.0.170",
-  "version_code": 171,
+  "version_name": "1.0.171",
+  "version_code": 172,
   "min_supported_version_code": 35,
-  "changelog": "1.0.170 — Linux Ubuntu/Debian (.deb, instalação por clique)."
+  "changelog": "1.0.171 — ícone Dek TV + GL software (Hyper-V/VM)."
 }
