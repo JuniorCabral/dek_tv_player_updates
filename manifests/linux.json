@@ -6,8 +6,8 @@
   "requires_user_confirm_install": true,
   "file_name": "dektv-player-linux-amd64.deb",
   "install_hint": "O app abre o instalador (.deb). Confirme Instalar no App Center.",
-  "version_name": "1.0.172",
-  "version_code": 173,
+  "version_name": "1.0.173",
+  "version_code": 174,
   "min_supported_version_code": 35,
-  "changelog": "1.0.172 — auto-update Linux; ícone; GL software para Hyper-V."
+  "changelog": "1.0.173 — corrige freeze de vídeo no Linux (remove gpu-dumb-mode / GL software forçado)."
 }
